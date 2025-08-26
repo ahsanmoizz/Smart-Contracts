@@ -70,7 +70,7 @@ Together, they demonstrate multi-chain development expertise.
 
 Clone the repo:
 
-git clone https://github.com/your-username/smart-contracts.git
+git clone https://github.com/your-username/Smart-Contracts.git
 
 
 For Solidity (EVM):
